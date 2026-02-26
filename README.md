@@ -18,6 +18,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-FFA500?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Solidworks](https://img.shields.io/badge/Solidworks-FF0000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_packet_tracer-7FFFD4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Intel Quartus](https://img.shields.io/badge/Intel_quartus-0000FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 
 
