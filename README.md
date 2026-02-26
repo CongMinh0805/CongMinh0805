@@ -2,7 +2,7 @@
 
 ### Programming Languages
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
   
 </span>
