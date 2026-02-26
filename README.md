@@ -15,5 +15,5 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Tools
-![MATLAB](https://img.shields.io/badge/MATLAB-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-#FFA500?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
