@@ -6,7 +6,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstaging.svgrepo.com%2Fsvg%2F7866%2Fhtml&psig=AOvVaw31Yxs-1U3UvpriS0rCBXMi&ust=1772182205312000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICP8qfj9pIDFQAAAAAdAAAAABAE" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" alt="CSS" width="40" height="40"/>
 
