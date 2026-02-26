@@ -16,4 +16,5 @@
 
 ### Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-FFA500?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Solidworks](https://img.shields.io/badge/Solidworks-FF0000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
