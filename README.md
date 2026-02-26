@@ -12,7 +12,7 @@
 </span>
 
 ### Message Broker
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/any_text-you_like-blue)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&style=flat-square)
 
 ### Database
